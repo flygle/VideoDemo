@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="btn_mediarecorder_start">录制</string>
+    <string name="btn_mediarecorder_stop">停止</string>
+    <string name="btn_delete">Settings</string>
+    <string name="btn_play">Settings</string>
+
+</resources>
